@@ -27,7 +27,7 @@
 - Code Of Conduct taken from Contributor Covenant
 
 ## Code of Conduct Choice
-- The reason I choose the Code of Conduct provided by the Contributor Covenant is becuase it gives a very good ceoverage on all elements of a good code of conduct. It provides a basic, yet thorough explanation on the how they aim to create a safe and encouraging enviroment for anyone and everyone to participate in. In addition, it outlinea a basic framework for how to deal with violations of the code of conduct and how to escalate issues. 
+- The reason I choose the Code of Conduct provided by the Contributor Covenant is becuase it gives a very good coverage on all elements of a good code of conduct. It provides a basic, yet thorough explanation on the how they aim to create a safe and encouraging enviroment for anyone and everyone to participate in. In addition, it outlinea a basic framework for how to deal with violations of the code of conduct and how to escalate issues. 
 
 ## License and copyright 
 @ Pooya Noori, university of pittsburgh

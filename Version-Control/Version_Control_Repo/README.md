@@ -22,3 +22,10 @@
 # Group Members
 -Taittinger Gabelhart
 -Michael Kharkovski
+-Pooya Noori
+
+## License and copyright 
+@ Pooya Noori, university of pittsburgh
+licensed under the [MIT License](LICENSE).
+# Reason why Mit License
+The MIT license is an excellent choice since it allows you to distribute your code under a copyleft license without requiring others to divulge their proprietary code, it's business friendly, and it allows for monetization.

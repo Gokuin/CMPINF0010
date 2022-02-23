@@ -1,6 +1,10 @@
 ## Read Me
 - The program Do_Something takes a couple inputs and returns how many times the user eats their favorite food in a week. As well as how many times it also tells the user the %/100 that the meal is eaten. Note: this is based upon the assumption of 3 meals a day and 7 days in a week for a total of 21 meals per week. 
 
+## Code of Conduct Choice
+- The reason I choose the Code of Conduct provided by the Contributor Covenant is becuase it gives a very good ceoverage on all elements of a good code of conduct. It provides a basic, yet thorough explanation on the how they aim to create a safe and encouraging enviroment for anyone and everyone to participate in. In addition, it outlinea a basic framework for how to deal with violations of the code of conduct and how to escalate issues. 
+
+
 ### Inputs
 - Str name
     -The name of the user that is currently using the program. 

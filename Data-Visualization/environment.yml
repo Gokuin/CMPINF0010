@@ -1,0 +1,7 @@
+name: cmpinf00100-lab9
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - vim
+  - geopandas
